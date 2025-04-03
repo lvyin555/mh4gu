@@ -16,6 +16,7 @@
 ![屏幕截图 2024-10-01 162504](https://github.com/user-attachments/assets/8b60dd8a-43e3-4293-9cf9-b7c24411f152)
 
 鸣谢
-[白嫖人家的世界版高清图标，ps4按键图标](https://github.com/StormieVN/MonsterHunterPortable3rdHDRemake)
-[太刀改xx和默认放大地图金手指的作者](https://space.bilibili.com/434139281/)
-高清包源文件地址找不到了。。。
+
+[白嫖人家的世界版高清图标，ps4按键图标](https://github.com/StormieVN/MonsterHunterPortable3rdHDRemake)  
+[太刀改xx和默认放大地图金手指的作者](https://space.bilibili.com/434139281/)  
+[Monster Hunter 4UHD 高清UI包](https://docs.google.com/document/d/15clCG3YitYU07rAgiWljV0zl7G_lFG0yFO4a31AgP-c/edit)  
