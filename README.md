@@ -19,4 +19,4 @@
 
 [白嫖人家的世界版高清图标，ps4按键图标](https://github.com/StormieVN/MonsterHunterPortable3rdHDRemake)  
 [太刀改xx和默认放大地图金手指的作者](https://space.bilibili.com/434139281/)  
-[Monster Hunter 4UHD 高清UI包](https://docs.google.com/document/d/15clCG3YitYU07rAgiWljV0zl7G_lFG0yFO4a31AgP-c/edit)  
+[Monster Hunter 4UHD 高清UI包](https://docs.google.com/document/d/15clCG3YitYU07rAgiWljV0zl7G_lFG0yFO4a31AgP-c/edit)  另有问题可以加207565704群找我（不是我的群，是4gxx mod交流群）
